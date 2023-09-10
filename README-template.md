@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/dmrabdullah/Main))
+-   Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://main-black-beta.vercel.app))
 
 ## My process
 
@@ -31,5 +31,5 @@ Users should be able to:
 
 ## Author
 
--   Website - [Abdullah Demir](https://www.your-site.com)
+-   Website - [Abdullah Demir]([https://www.your-site.com](https://main-black-beta.vercel.app))
 -   Frontend Mentor - [@dmrabdullah](https://www.frontendmentor.io/profile/dmrabdullah)
